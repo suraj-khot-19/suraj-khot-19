@@ -6,7 +6,7 @@
 </div>
 
 <h4 align="center">
-Connect with me:
+Connect with me :
   <br/>
 </h4>
 
