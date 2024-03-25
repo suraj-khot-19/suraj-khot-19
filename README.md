@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me
       <link>https://www.linkedin.com/in/khot-suraj</link>
-      <br>
+    
       <link>khotsuraj019@gmail.com</link>
   
 
