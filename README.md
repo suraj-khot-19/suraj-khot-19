@@ -2,9 +2,9 @@
 - 👀 I’m interested in Tech
 - 🌱 I’m currently learning flutter and laravel
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me <li>
+- 📫 How to reach me
       <link>https://www.linkedin.com/in/khot-suraj</link>
       <br>
       <link>khotsuraj019@gmail.com</link>
-      </li>
+  
 
