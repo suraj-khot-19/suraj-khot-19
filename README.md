@@ -3,6 +3,16 @@
 - 🌱 I’m currently learning flutter and laravel
 
 - 📫 How to reach me
-      <link>https://www.linkedin.com/in/khot-suraj</link> or <link>khotsuraj019@gmail.com</link>
+ <table>
+       <tr>
+             <th>Linkedin</th>
+             <td><link>https://www.linkedin.com/in/khot-suraj</link></td>
+       </tr>
+       <tr>
+             <th>Gmail</th>
+             <td><link>khotsuraj019@gmail.com</link></td>
+       </tr>
+</table>
+       
   
 
