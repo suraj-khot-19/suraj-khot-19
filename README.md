@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning flutter and laravel
 
 - 📫 How to reach me
-<table>
+<table style="width:500">
     <tr>
         <th>Linkedin</th>
         <td><a href="https://www.linkedin.com/in/khot-suraj">linkedIn</a></td>
