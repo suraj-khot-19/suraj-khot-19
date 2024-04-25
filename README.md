@@ -31,8 +31,7 @@
   <img src="https://github-readme-stats.vercel.app/api?username=suraj-khot-19&show_icons=true&theme=radical" alt="suraj khot GitHub Stats" />
     </p>
 </li>
-<li>Skills</li>
-    
+<li>Skills
     <li><b>languages:</b></li>
 <img src="https://img.shields.io/badge/Java-orange" alt="Java" />
   <img src="https://img.shields.io/badge/Dart-blue" alt="Dart" />
@@ -53,4 +52,5 @@
   <li><b>Tools:</b></li>
   <img src="https://img.shields.io/badge/Git-orange" alt="Git" />
   <img src="https://img.shields.io/badge/GitHub-black" alt="GitHub" />
+</li>
 </ul>
