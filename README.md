@@ -9,11 +9,11 @@
 
  <table>
     <tr>
-        <th>Linkedin 🔗</th>
+        <th>Linkedin🔗</th>
         <td><a href="https://www.linkedin.com/in/khot-suraj">🔗linkedIn</a></td>
     </tr>
     <tr>
-        <th>Gmail 📧</th>
+        <th>Gmail💌</th>
         <td><a href="mailto:khotsuraj019@gmail.com">🔗mail</a></td>
     </tr>
      <tr>
@@ -21,16 +21,16 @@
         <td><a href="https://tel:+919359658536">+919359658536</a></td>
     </tr>
     <tr>
-        <th>WhatsApp 🤳🏻</th>
+        <th>WhatsApp📝</th>
         <td><a href="https://wa.me/+919359658536">🔗 WhatsApp</a></td>
     </tr>
     <tr>
-        <th>Portfolio 👨🏻‍💻</th>
+        <th>Portfolio🧑🏻‍💻</th>
         <td><a href="https://suraj-khot-19.github.io/suraj/">🔗OnlinePortfolio</a></td>
     </tr>
 </table>
 <li>📊 My GitHub Stats <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=suraj-khot-19&show_icons=true&theme=radical" alt="suraj khot GitHub Stats" />
-    </li>
-</p>
+    </p>
+</li>
 </ul>
