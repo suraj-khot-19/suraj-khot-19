@@ -13,7 +13,7 @@
     </tr>
      <tr>
         <th>Phone 📲 </th>
-        <td><a href="tel:+919359658536">+919359658536</a></td>
+        <td><a href="https://tel:+919359658536">+919359658536</a></td>
     </tr>
     <tr>
         <th>WhatsApp 🤳🏻</th>
