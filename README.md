@@ -7,7 +7,7 @@
 <li> 🌱 I’m currently learning flutter, Dart OOPS, Avdvance Java, DSA.</li>
 <li>📫 How to reach me:</li>
 
- <table>
+ <table align="center">
     <tr>
         <th>Linkedin🔗</th>
         <td><a href="https://www.linkedin.com/in/khot-suraj">🔗linkedIn</a></td>
