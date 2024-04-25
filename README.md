@@ -1,9 +1,12 @@
-
+<div align="center">
     <img src="https://github.com/suraj-khot-19/img/blob/main/Suraj.jpg" alt="suraj khot" width="200"/>
-- 🤗 Hi, I’m <b>☀️ Suraj Khot</b>
-- 👀 I’m interested in Tech
-- 🌱 I’m currently learning flutter, Dart OOPS, Avdvance Java, DSA.
+</div>
+<ul>
+<li>🤗 Hi, I’m <b>Suraj Khot</b></li>
+<li>👀 I’m interested in Tech</li>
+<li> 🌱 I’m currently learning flutter, Dart OOPS, Avdvance Java, DSA.</li>
 - 📫 How to reach me:
+</ul>
  <table>
     <tr>
         <th>Linkedin 🔗</th>
