@@ -12,6 +12,10 @@
         <th>Gmail</th>
         <td><a href="mailto:khotsuraj019@gmail.com">mail</a></td>
     </tr>
+     <tr>
+        <th>Phone</th>
+        <td><a href="tel:+919359658536">call/text</a></td>
+    </tr>
 </table>
 
        
