@@ -1,4 +1,4 @@
-<div align="center">
+<div align="center" border="solid 2px">
     <img src="https://github.com/suraj-khot-19/img/blob/main/Suraj.jpg" alt="suraj khot" width="200"/>
 </div>
 <ul>
