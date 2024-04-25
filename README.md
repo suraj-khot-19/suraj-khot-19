@@ -14,7 +14,7 @@
     </tr>
      <tr>
         <th>Phone</th>
-        <td><a href="tel:9359658536">call</a></td>
+        <td><a href="tel:+919359658536">+919359658536</a></td>
     </tr>
 </table>
 
