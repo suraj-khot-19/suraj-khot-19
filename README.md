@@ -1,6 +1,4 @@
-<div align="center" border="solid 2px">
-    <img src="https://github.com/suraj-khot-19/img/blob/main/Suraj.jpg" alt="suraj khot" width="200"/>
-</div>
+
 <ul>
 <li>🤗 Hi, I’m <b>Suraj Khot</b></li>
 <li>👀 I’m interested in Tech</li>
@@ -33,8 +31,9 @@
   <img src="https://github-readme-stats.vercel.app/api?username=suraj-khot-19&show_icons=true&theme=radical" alt="suraj khot GitHub Stats" />
     </p>
 </li>
-<li>
-    <b>languages:</b>
+<li>Skills</li>
+    
+    <li><b>languages:</b></li>
 <img src="https://img.shields.io/badge/Java-orange" alt="Java" />
   <img src="https://img.shields.io/badge/Dart-blue" alt="Dart" />
   <img src="https://img.shields.io/badge/Python-yellow" alt="Python" />
@@ -43,16 +42,15 @@
   <img src="https://img.shields.io/badge/JavaScript-yellow" alt="JavaScript" />
   <img src="https://img.shields.io/badge/PHP-purple" alt="PHP" />
   <br>
-  <b>Frameworks:</b> 
+  <li><b>Frameworks:</b> </li>
   <img src="https://img.shields.io/badge/Flutter-blue" alt="Flutter" />
   <img src="https://img.shields.io/badge/Laravel-red" alt="Laravel" />
   <br>
-  <b>Databases:</b> 
+  <li><b>Databases:</b></li>
   <img src="https://img.shields.io/badge/DBMS-orange" alt="DBMS" />
   <img src="https://img.shields.io/badge/MySQL-blue" alt="MySQL" />
   <br>
-  <b>Tools:</b> 
+  <li><b>Tools:</b></li>
   <img src="https://img.shields.io/badge/Git-orange" alt="Git" />
   <img src="https://img.shields.io/badge/GitHub-black" alt="GitHub" />
-    </li>
 </ul>
