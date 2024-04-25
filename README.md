@@ -19,6 +19,10 @@
         <th>WhatsApp 🤳🏻</th>
         <td><a href="https://wa.me/+919359658536">🔗 WhatsApp</a></td>
     </tr>
+    <tr>
+        <th>Portfolio 👨🏻‍💻</th>
+        <td><a href="https://suraj-khot-19.github.io/suraj/">🔗OnlinePortfolio</a></td>
+    </tr>
 </table>
 
        
