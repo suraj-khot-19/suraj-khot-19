@@ -2,7 +2,7 @@
 - 👀 I’m interested in Tech
 - 🌱 I’m currently learning flutter, Dart OOPS, Avdvance Java, DSA.
 - 📫 How to reach me:
-- <table>
+ <table>
     <tr>
         <th>Linkedin 🔗</th>
         <td><a href="https://www.linkedin.com/in/khot-suraj">🔗linkedIn</a></td>
