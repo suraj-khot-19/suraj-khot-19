@@ -6,7 +6,7 @@
 <li>👀 I’m interested in Tech</li>
 <li> 🌱 I’m currently learning flutter, Dart OOPS, Avdvance Java, DSA.</li>
 <li>📫 How to reach me:</li>
-<li><p align="center">My GitHub Stats
+<li>📊 My GitHub Stats <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=suraj-khot-19&show_icons=true&theme=radical" alt="suraj khot GitHub Stats" />
     </li>
 </p>
