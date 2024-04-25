@@ -1,4 +1,4 @@
-- 👋 Hi, I’m <b>Suraj Sanjay Khot</b>
+- 🤗 Hi, I’m <b>☀️ Suraj Khot</b>
 - 👀 I’m interested in Tech
 - 🌱 I’m currently learning flutter, Dart OOPS, Avdvance Java, DSA.
 - 📫 How to reach me:
