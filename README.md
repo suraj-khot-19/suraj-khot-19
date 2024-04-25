@@ -10,7 +10,7 @@
        </tr>
        <tr>
              <th>Gmail</th>
-             <td><a href="khotsuraj019@gmail.com">khotsuraj019@gmail.com</a></td>
+             <td><a href="mailto:khotsuraj019@gmail.com">khotsuraj019@gmail.com</a></td>
        </tr>
 </table>
        
