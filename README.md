@@ -16,8 +16,8 @@
         <td><a href="tel:+919359658536">+919359658536</a></td>
     </tr>
     <tr>
-        <th>WhatsApp 📧</th>
-        <td><a href="Wa.me/+919359658536">🔗 WhatsApp</a></td>
+        <th>WhatsApp 🤳🏻</th>
+        <td><a href="https://wa.me/+919359658536">🔗 WhatsApp</a></td>
     </tr>
 </table>
 
