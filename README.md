@@ -32,7 +32,7 @@
     </p>
 </li>
 <li>Skills
-    <li><b>languages:</b></li>
+    <li><b>languages:</b>
 <img src="https://img.shields.io/badge/Java-orange" alt="Java" />
   <img src="https://img.shields.io/badge/Dart-blue" alt="Dart" />
   <img src="https://img.shields.io/badge/Python-yellow" alt="Python" />
@@ -40,15 +40,17 @@
   <img src="https://img.shields.io/badge/CSS3-blue" alt="CSS3" />
   <img src="https://img.shields.io/badge/JavaScript-yellow" alt="JavaScript" />
   <img src="https://img.shields.io/badge/PHP-purple" alt="PHP" />
-  <br>
-  <li><b>Frameworks:</b> </li>
+  </li><br>
+  <li><b>Frameworks:</b> 
   <img src="https://img.shields.io/badge/Flutter-blue" alt="Flutter" />
   <img src="https://img.shields.io/badge/Laravel-red" alt="Laravel" />
-  <br>
-  <li><b>Databases:</b></li>
+  </li><br>
+  <li><b>Databases:</b>
   <img src="https://img.shields.io/badge/DBMS-orange" alt="DBMS" />
   <img src="https://img.shields.io/badge/MySQL-blue" alt="MySQL" />
-  <br>
+   <img src="https://via.placeholder.com/20x20.png?text=DB" alt="SQL" />
+  </li><br>
+ 
   <li><b>Tools:</b></li>
   <img src="https://img.shields.io/badge/Git-orange" alt="Git" />
   <img src="https://img.shields.io/badge/GitHub-black" alt="GitHub" />
