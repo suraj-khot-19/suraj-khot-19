@@ -27,7 +27,7 @@
 <html>
 <body style="font-family: Arial, sans-serif; margin: 0; padding: 0; display: flex; justify-content: center; align-items: center; height: 100vh; background-color: #f0f0f0;">
   <div class="diagram" style="position: relative; width: 400px; height: 300px; background-color: #fff; border: 2px solid #ddd; border-radius: 10px; box-shadow: 0 0 10px rgba(0, 0, 0, 0.1); overflow: hidden;">
-    <div class="circle" style="position: absolute; width: 100px; height: 100px; background-color: #3498db; border-radius: 50%; top: 50%; left: 50%; transform: translate(-50%, -50%); display: flex; justify-content: center; align-items: center; color: #fff; font-size: 24px; box-shadow: 0 0 10px rgba(0, 0, 0, 0.3);">1</div>
+    <div class="circle" style="position: absolute; width: 100px; height: 100px; background-color: #3498db; border-radius: 50%; top: 50%; left: 50%; transform: translate(-50%, -50%); display: flex; justify-content: center; align-items: center; color: #fff; font-size: 24px; box-shadow: 0 0 10px rgba(0, 0, 0, 0.3);">.</div>
   </div>
 </body>
 </html>
