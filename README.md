@@ -31,21 +31,19 @@
   <img src="https://github-readme-stats.vercel.app/api?username=suraj-khot-19&show_icons=true&theme=radical" alt="suraj khot GitHub Stats" />
     </p>
 </li>
-<li>Skills
-<img src="https://img.shields.io/badge/Java-orange" alt="Java" />
-  <img src="https://img.shields.io/badge/Dart-blue" alt="Dart" />
-  <img src="https://img.shields.io/badge/Python-yellow" alt="Python" />
-  <img src="https://img.shields.io/badge/HTML5-orange" alt="HTML5" />
-  <img src="https://img.shields.io/badge/CSS3-blue" alt="CSS3" />
-  <img src="https://img.shields.io/badge/JavaScript-yellow" alt="JavaScript" />
-  <img src="https://img.shields.io/badge/PHP-purple" alt="PHP" /> 
-  <img src="https://img.shields.io/badge/Flutter-blue" alt="Flutter" />
-  <img src="https://img.shields.io/badge/Laravel-red" alt="Laravel" />
-  </li>
-  <img src="https://img.shields.io/badge/DBMS-orange" alt="DBMS" />
-  <img src="https://img.shields.io/badge/MySQL-blue" alt="MySQL" />
-   <img src="https://img.shields.io/badge/SQL-pink" alt="SQL" />
-  <img src="https://img.shields.io/badge/Git-orange" alt="Git" />
-  <img src="https://img.shields.io/badge/GitHub-black" alt="GitHub" />
-</li>
+<li>Skills</li>
+ <img src="https://img.shields.io/badge/Java-orange" alt="Java" />
+<img src="https://img.shields.io/badge/Dart-blue" alt="Dart" />
+<img src="https://img.shields.io/badge/Python-yellow" alt="Python" />
+<img src="https://img.shields.io/badge/HTML5-green" alt="HTML5" />
+<img src="https://img.shields.io/badge/CSS3-purple" alt="CSS3" />
+<img src="https://img.shields.io/badge/JavaScript-red" alt="JavaScript" />
+<img src="https://img.shields.io/badge/PHP-pink" alt="PHP" /> 
+<img src="https://img.shields.io/badge/Flutter-blueviolet" alt="Flutter" />
+<img src="https://img.shields.io/badge/Laravel-cyan" alt="Laravel" />
+<img src="https://img.shields.io/badge/DBMS-indigo" alt="DBMS" />
+<img src="https://img.shields.io/badge/MySQL-yellowgreen" alt="MySQL" />
+<img src="https://img.shields.io/badge/SQL-lime" alt="SQL" />
+<img src="https://img.shields.io/badge/Git-tomato" alt="Git" />
+<img src="https://img.shields.io/badge/GitHub-black" alt="GitHub" />
 </ul>
