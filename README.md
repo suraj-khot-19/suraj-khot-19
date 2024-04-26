@@ -25,7 +25,7 @@
     </tr>
 </table>
 <li>📊 My GitHub Stats <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=suraj-khot-19&show_icons=true&theme=merko" alt="suraj khot GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=suraj-khot-19&show_icons=true&theme=merko" alt="GitHub Stats" />
     </p>
 </li>
 <li>Skills</li>
