@@ -29,6 +29,7 @@
     </p>
 </li>
 <li>Skills</li>
+<img src="https://img.shields.io/badge/Flutter-blueviolet" alt="Flutter" />
  <img src="https://img.shields.io/badge/Java-orange" alt="Java" />
 <img src="https://img.shields.io/badge/Dart-blue" alt="Dart" />
 <img src="https://img.shields.io/badge/Python-yellow" alt="Python" />
@@ -36,11 +37,11 @@
 <img src="https://img.shields.io/badge/CSS3-purple" alt="CSS3" />
 <img src="https://img.shields.io/badge/JavaScript-red" alt="JavaScript" />
 <img src="https://img.shields.io/badge/PHP-pink" alt="PHP" /> 
-<img src="https://img.shields.io/badge/Flutter-blueviolet" alt="Flutter" />
 <img src="https://img.shields.io/badge/Laravel-cyan" alt="Laravel" />
 <img src="https://img.shields.io/badge/DBMS-indigo" alt="DBMS" />
 <img src="https://img.shields.io/badge/MySQL-yellowgreen" alt="MySQL" />
 <img src="https://img.shields.io/badge/SQL-lime" alt="SQL" />
+<img src="https://img.shields.io/badge/DSA-grey" alt="DSA" />
 <img src="https://img.shields.io/badge/Git-tomato" alt="Git" />
 <img src="https://img.shields.io/badge/GitHub-black" alt="GitHub" />
 </ul>
