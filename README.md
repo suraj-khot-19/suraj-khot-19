@@ -17,8 +17,8 @@ Connect with me:
 </h4>
 
 
-<p align="center">
-<a font-decoration="none" href="https://www.linkedin.com/in/khot-suraj">
+<div align="center">
+<a href="https://www.linkedin.com/in/khot-suraj">
     <img alt="Suraj | linkedin" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
   </a>&nbsp;&nbsp;&nbsp;
 
@@ -33,7 +33,7 @@ Connect with me:
   <a href="mailto:khotsuraj019@gmail.com">
     <img  alt="Suraj | gmail" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" />
   </a>&nbsp;&nbsp;&nbsp;
-</p>
+</div>
 <br/>
 <br/>
 
