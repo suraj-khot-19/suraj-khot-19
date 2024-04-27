@@ -19,19 +19,19 @@ Connect with me:
 
 <p align="center">
 <a href="https://www.linkedin.com/in/khot-suraj">
-    <img align="left" alt="Suraj | Website" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
+    <img  alt="Suraj | Website" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
   </a>
 
   <a href="https://wa.me/+919359658536">
-    <img align="left" alt="Suraj | Website" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/whatsapp.svg" />
+    <img alt="Suraj | Website" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/whatsapp.svg" />
   </a>
 
   <a href="https://suraj-khot-19.github.io/suraj/">
-    <img align="left" alt="Suraj | Website" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/googlechrome.svg" />
+    <img  alt="Suraj | Website" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/googlechrome.svg" />
   </a>
 
   <a href="mailto:khotsuraj019@gmail.com">
-    <img align="left" alt="Suraj | Website" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" />
+    <img  alt="Suraj | Website" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" />
   </a>
 </p>
 <br/>
