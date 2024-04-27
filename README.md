@@ -16,7 +16,7 @@
 [linkedin]: https://www.linkedin.com/in/khot-suraj
 [website]: https://suraj-khot-19.github.io/suraj/
 [gmail]: mailto:khotsuraj019@gmail.com
-
+<br/>
 
 <li>📊 My GitHub Stats <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=suraj-khot-19&show_icons=true&theme=merko" alt="GitHub Stats" />
