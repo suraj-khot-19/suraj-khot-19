@@ -22,20 +22,22 @@ Connect with me:
 [gmail]: mailto:khotsuraj019@gmail.com
 
 <br/>
+<br/>
+<br/>
 <p align="center">My GitHub Stats </p>
 <br/>
 <br/>
-<br/>
-<br/>
+
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=suraj-khot-19&show_icons=true&theme=merko" alt="GitHub Stats" />
     </p>
 
+<br/>
+<br/>
 <p align="center"> Skills </p>
 <br/>
 <br/>
-<br/>
-<br/>
+
 <p>
 <img src="https://img.shields.io/badge/Flutter-blueviolet" alt="Flutter" />
  <img src="https://img.shields.io/badge/Java-orange" alt="Java" />
