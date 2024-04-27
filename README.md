@@ -2,23 +2,10 @@
 ![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Consolas&pause=1000&color=F4C430&center=true&width=435&lines=Student+%7C+Learning+Flutter;Expertise+in+Mobile+Development+%F0%9F%91%A8%F0%9F%8F%BB%E2%80%8D%F0%9F%92%BB;Flutter+%7C+Android+%7C+Java)
 
 
-<hr>
-<br>
 
 # Hi, I’m Suraj Khot
-
-<hr>
-<br>
-
 # I’m interested in Tech
-
-<hr>
-<br>
-
 # Connect with me:
-
-<hr>
-<br>
 
 [<img align="left" alt="Suraj | Wbsite" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/googlechrome.svg" />][website]
 [<img align="left" alt="Suraj | Whatsapp" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/whatsapp.svg" />][whatsapp]
@@ -30,30 +17,21 @@
 [website]: https://suraj-khot-19.github.io/suraj/
 [gmail]: mailto:khotsuraj019@gmail.com
 
-<br>
-<br>
-<hr>
-<br>
+
 
 # <p align="center"> My GitHub Stats </p>
 
-<br>
-<hr>
-<br>
+
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=suraj-khot-19&show_icons=true&theme=merko" alt="GitHub Stats" />
     </p>
 
-<br>
-<hr>
-<br>
+
 
 # <p align="center">  Skills </p>
 
-<br>
-<hr>
-<br>
+
 
 <p>
 <img src="https://img.shields.io/badge/Flutter-blueviolet" alt="Flutter" />
