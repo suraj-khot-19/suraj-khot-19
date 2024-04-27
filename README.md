@@ -19,7 +19,7 @@
 
 
 
-# <p align="center"> My GitHub Stats </p>
+# My GitHub Stats 
 
 
 
@@ -29,7 +29,7 @@
 
 
 
-# <p align="center">  Skills </p>
+# Skills 
 
 
 
