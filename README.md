@@ -16,7 +16,7 @@
 [whatsapp]: https://wa.me/+919359658536
 [linkedin]: https://www.linkedin.com/in/khot-suraj
 [website]: https://suraj-khot-19.github.io/suraj/
-[gmail]: https://khotsuraj019@gmail.com
+[gmail]: mailto:khotsuraj019@gmail.com
 
 
 <li>📊 My GitHub Stats <p align="center">
