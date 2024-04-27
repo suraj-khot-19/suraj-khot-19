@@ -20,19 +20,19 @@ Connect with me:
 <p >
 <a href="https://www.linkedin.com/in/khot-suraj">
     <img align="center" alt="Suraj | linkedin" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
-  </a>
+  </a>&nbsp;&nbsp;
 
   <a href="https://wa.me/+919359658536">
     <img  align="center" alt="Suraj | WhatsApp" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/whatsapp.svg" />
-  </a>
+  </a>&nbsp;&nbsp;
 
   <a href="https://suraj-khot-19.github.io/suraj/">
     <img  align="center" alt="Suraj | Website" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/googlechrome.svg" />
-  </a>
+  </a>&nbsp;&nbsp;
 
   <a href="mailto:khotsuraj019@gmail.com">
     <img  align="center" alt="Suraj | gmail" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" />
-  </a>
+  </a>&nbsp;&nbsp;
 </p>
 <br/>
 <br/>
