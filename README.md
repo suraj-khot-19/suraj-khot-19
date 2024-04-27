@@ -7,6 +7,7 @@
 Hi, I’m Suraj Khot<br/>
 I’m interested in Tech<br/>
 Connect with me:
+  <br/>
 </h4>
 
 [<img align="left" alt="Suraj | Wbsite" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/googlechrome.svg" />][website]
@@ -20,9 +21,10 @@ Connect with me:
 [gmail]: mailto:khotsuraj019@gmail.com
 
 
-<h4>
+<h4 align="center">
   <br/>
  My GitHub Stats :
+  <br/>
 </h4>
 
 
@@ -31,7 +33,7 @@ Connect with me:
     </p>
 
 
-<h4>
+<h4 align="center">
   <br/>
 Skills 
 </h4>
