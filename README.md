@@ -19,7 +19,7 @@ Connect with me:
 
 <p align="center">
 <a href="https://www.linkedin.com/in/khot-suraj">
-    <img  alt="Suraj | linkedin" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
+    <img align="left" alt="Suraj | linkedin" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
   </a>
 
   <a href="https://wa.me/+919359658536">
@@ -27,11 +27,11 @@ Connect with me:
   </a>
 
   <a href="https://suraj-khot-19.github.io/suraj/">
-    <img  alt="Suraj | Website" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/googlechrome.svg" />
+    <img  align="center" alt="Suraj | Website" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/googlechrome.svg" />
   </a>
 
   <a href="mailto:khotsuraj019@gmail.com">
-    <img  align="left" alt="Suraj | gmail" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" />
+    <img  align="right" alt="Suraj | gmail" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" />
   </a>
 </p>
 <br/>
