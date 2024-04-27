@@ -18,7 +18,7 @@ Connect with me:
 
 
 <p align="center">
-<a href="https://www.linkedin.com/in/khot-suraj">
+<a font-decoration="none" href="https://www.linkedin.com/in/khot-suraj">
     <img alt="Suraj | linkedin" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
   </a>&nbsp;&nbsp;&nbsp;
 
