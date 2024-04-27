@@ -1,15 +1,14 @@
 
 ![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Consolas&pause=1000&color=F4C430&center=true&width=435&lines=Student+%7C+Learning+Flutter;Expertise+in+Mobile+Development+%F0%9F%91%A8%F0%9F%8F%BB%E2%80%8D%F0%9F%92%BB;Flutter+%7C+Android+%7C+Java)
 
-<p color="blue">
+
 <br/>
-Hi, I’m Suraj Khot
+# Hi, I’m Suraj Khot
 <br/>
-I’m interested in Tech
+# I’m interested in Tech
 <br/>
-Connect with me:
+# Connect with me:
 <br/>
-</p>
 
 [<img align="left" alt="Suraj | Wbsite" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/googlechrome.svg" />][website]
 [<img align="left" alt="Suraj | Whatsapp" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/whatsapp.svg" />][whatsapp]
@@ -24,7 +23,7 @@ Connect with me:
 <br/>
 <br/>
 <br/>
-<p align="center">My GitHub Stats </p>
+# <p align="center">My GitHub Stats </p>
 <br/>
 <br/>
 
@@ -34,7 +33,7 @@ Connect with me:
 
 <br/>
 <br/>
-<p align="center"> Skills </p>
+# <p align="center">  Skills </p>
 <br/>
 <br/>
 
