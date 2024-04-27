@@ -1,10 +1,10 @@
 
-# 🤗 Hi, I’m Suraj Khot
+# Hi, I’m Suraj Khot
 <br/>
 
 ![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Consolas&pause=1000&color=F4C430&center=true&width=435&lines=Student+%7C+Learning+Flutter;Expertise+in+Mobile+Development+%F0%9F%91%A8%F0%9F%8F%BB%E2%80%8D%F0%9F%92%BB;Flutter+%7C+Android+%7C+Java)
 
-# 👀 I’m interested in Tech
+#  I’m interested in Tech
 <br/>
 
 ### Connect with me:
@@ -19,7 +19,7 @@
 [gmail]: mailto:khotsuraj019@gmail.com
 <br/>
 
-# 📊 My GitHub Stats 
+# My GitHub Stats 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=suraj-khot-19&show_icons=true&theme=merko" alt="GitHub Stats" />
     </p>
@@ -40,5 +40,5 @@
 <img src="https://img.shields.io/badge/DSA-grey" alt="DSA" />
 <img src="https://img.shields.io/badge/Git-tomato" alt="Git" />
 <img src="https://img.shields.io/badge/GitHub-black" alt="GitHub" />
-</ul>
+
 
