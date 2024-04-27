@@ -5,29 +5,10 @@
 <li> 🌱 I’m currently learning flutter, Dart OOPS, Avdvance Java, DSA.</li>
 <li>📫 How to reach me:</li>
 
- <table align="center">
-    <tr>
-        <th>Linkedin🔗</th>
-        <td><a href="https://www.linkedin.com/in/khot-suraj">🔗linkedIn</a></td>
-    </tr>
-    <tr>
-        <th>Gmail💌</th>
-        <td><a href="mailto:khotsuraj019@gmail.com">🔗mail</a>
-        </td>
-    </tr>
-    <tr>
-      <th>WhatsApp📝</th>
-        <td><a href="https://wa.me/+919359658536">🔗 WhatsApp</a></td>
-    </tr>
-    <tr>
-        <th>Portfolio🧑🏻‍💻</th>
-        <td><a href="https://suraj-khot-19.github.io/suraj/">🔗OnlinePortfolio</a></td>
-    </tr>
-</table>
 
 ### Connect with me:
 [<img align="left" alt="Suraj | Wbsite" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/googlechrome.svg" />][website]
-[<img align="left" alt="Suraj | Whatsapp" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/whatsapp.svg" />][whatsaap]
+[<img align="left" alt="Suraj | Whatsapp" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/whatsapp.svg" />][whatsapp]
 [<img align="left" alt="suraj | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 [<img align="left" alt="suraj | gmail" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" />][gamil]
 
@@ -35,7 +16,7 @@
 [whatsapp]: https://wa.me/+919359658536
 [linkedin]: https://www.linkedin.com/in/khot-suraj
 [website]: https://suraj-khot-19.github.io/suraj/
-[gmail]: mailto:khotsuraj019@gmail.com
+[gmail]: https://khotsuraj019@gmail.com
 
 
 <li>📊 My GitHub Stats <p align="center">
