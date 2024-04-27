@@ -8,7 +8,6 @@ Hi, I’m Suraj Khot<br/>
 I’m interested in Tech<br/>
 Connect with me:
   <br/>
-  <br/>
 </h4>
 
 [<img align="left" alt="Suraj | Wbsite" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/googlechrome.svg" />][website]
@@ -22,23 +21,25 @@ Connect with me:
 [gmail]: mailto:khotsuraj019@gmail.com
 
 
+<br/>
+<br/>
+<br/>
 <h4 align="center">
-  <br/>
  My GitHub Stats :
   <br/>
 </h4>
-
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=suraj-khot-19&show_icons=true&theme=merko" alt="GitHub Stats" />
     </p>
 
-
+<br/>
+<br/>
+<br/>
 <h4 align="center">
-  <br/>
 Skills 
 </h4>
-
+<br/>
 
 <p>
 <img src="https://img.shields.io/badge/Flutter-blueviolet" alt="Flutter" />
