@@ -28,7 +28,6 @@ Connect with me:
 
 <br/>
 <br/>
-<br/>
 <h4 align="center">
  My GitHub Stats :
   <br/>
@@ -38,7 +37,6 @@ Connect with me:
   <img src="https://github-readme-stats.vercel.app/api?username=suraj-khot-19&show_icons=true&theme=merko" alt="GitHub Stats" />
     </p>
 
-<br/>
 <br/>
 <br/>
 <h4 align="center">
