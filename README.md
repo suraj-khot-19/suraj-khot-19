@@ -3,11 +3,10 @@
 
 
 <h4>
-  
-# Hi, I’m Suraj Khot
-# I’m interested in Tech
-# Connect with me:
-
+  <br/>
+Hi, I’m Suraj Khot<br/>
+I’m interested in Tech<br/>
+Connect with me:
 </h4>
 
 [<img align="left" alt="Suraj | Wbsite" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/googlechrome.svg" />][website]
@@ -22,9 +21,8 @@
 
 
 <h4>
-  
-# My GitHub Stats 
-
+  <br/>
+ My GitHub Stats :
 </h4>
 
 
@@ -34,9 +32,8 @@
 
 
 <h4>
-  
-# Skills 
-
+  <br/>
+Skills 
 </h4>
 
 
