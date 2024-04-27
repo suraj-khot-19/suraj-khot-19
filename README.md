@@ -27,7 +27,7 @@
 
 [<img align="left" alt="Suraj | Wbsite" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/googlechrome.svg" />][website]
 
-[<img align="left" alt="Suraj | Whatsapp" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/whatsapp.svg" />]['https://wa.me/+919359658536']
+[<img align="left" alt="Suraj | Whatsapp" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/whatsapp.svg" />][https://wa.me/+919359658536]
 [<img align="left" alt="suraj | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 
 <li>📊 My GitHub Stats <p align="center">
