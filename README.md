@@ -27,7 +27,7 @@ Connect with me:
   </a>&nbsp;&nbsp;&nbsp;
 
   <a href="https://suraj-khot-19.github.io/suraj/">
-    <img alt="Suraj | Website" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/googlechrome.svg" />
+    <img alt="Suraj | Website" width="22px" src="https://www.flaticon.com/free-icon/chrome_888846" />
   </a>&nbsp;&nbsp;&nbsp;
 
   <a href="mailto:khotsuraj019@gmail.com">
