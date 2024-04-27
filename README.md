@@ -2,10 +2,15 @@
 ![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Consolas&pause=1000&color=F4C430&center=true&width=435&lines=Student+%7C+Learning+Flutter;Expertise+in+Mobile+Development+%F0%9F%91%A8%F0%9F%8F%BB%E2%80%8D%F0%9F%92%BB;Flutter+%7C+Android+%7C+Java)
 
 
-<h4>
+<h3>
   <br/>
 Hi, I’m Suraj Khot<br/>
 I’m interested in Tech<br/>
+</h3>
+<br/>
+<br/>
+<br/>
+<h4 align="center">
 Connect with me:
   <br/>
 </h4>
