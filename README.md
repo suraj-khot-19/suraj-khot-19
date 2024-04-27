@@ -1,7 +1,7 @@
 
 ![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Consolas&pause=1000&color=F4C430&center=true&width=435&lines=Student+%7C+Learning+Flutter;Expertise+in+Mobile+Development+%F0%9F%91%A8%F0%9F%8F%BB%E2%80%8D%F0%9F%92%BB;Flutter+%7C+Android+%7C+Java)
 
-<p style="font-family: 'Arial', sans-serif; font-size: 16px; color: #333; background-color: #f0f0f0; padding: 10px;">
+<p font-size="16px" color="#333" padding="10px" >
 <br/>
 Hi, I’m Suraj Khot
 <br/>
