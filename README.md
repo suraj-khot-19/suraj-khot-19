@@ -24,6 +24,12 @@
         <td><a href="https://suraj-khot-19.github.io/suraj/">🔗OnlinePortfolio</a></td>
     </tr>
 </table>
+
+[<img align="left" alt="Suraj | Wbsite" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/googlechrome.svg" />][website]
+
+[<img align="left" alt="Suraj | Whatsapp" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/whatsapp.svg" />]['https://wa.me/+919359658536']
+[<img align="left" alt="suraj | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+
 <li>📊 My GitHub Stats <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=suraj-khot-19&show_icons=true&theme=merko" alt="GitHub Stats" />
     </p>
@@ -45,3 +51,4 @@
 <img src="https://img.shields.io/badge/Git-tomato" alt="Git" />
 <img src="https://img.shields.io/badge/GitHub-black" alt="GitHub" />
 </ul>
+
