@@ -1,9 +1,11 @@
-<ul>
-<li>🤗 Hi, I’m <b>Suraj Khot</b></li>
-</ul>
+
+# 🤗 Hi, I’m Suraj Khot
+<br/>
+
 ![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Consolas&pause=1000&color=F4C430&center=true&width=435&lines=Student+%7C+Learning+Flutter;Expertise+in+Mobile+Development+%F0%9F%91%A8%F0%9F%8F%BB%E2%80%8D%F0%9F%92%BB;Flutter+%7C+Android+%7C+Java)
-<ul>
-<li>👀 I’m interested in Tech</li>
+
+# 👀 I’m interested in Tech
+<br/>
 
 ### Connect with me:
 [<img align="left" alt="Suraj | Wbsite" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/googlechrome.svg" />][website]
@@ -17,11 +19,12 @@
 [gmail]: mailto:khotsuraj019@gmail.com
 <br/>
 
-<li>📊 My GitHub Stats <p align="center">
+# 📊 My GitHub Stats 
+<p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=suraj-khot-19&show_icons=true&theme=merko" alt="GitHub Stats" />
     </p>
-</li>
-<li>Skills</li>
+
+# Skills
 <img src="https://img.shields.io/badge/Flutter-blueviolet" alt="Flutter" />
  <img src="https://img.shields.io/badge/Java-orange" alt="Java" />
 <img src="https://img.shields.io/badge/Dart-blue" alt="Dart" />
