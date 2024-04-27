@@ -12,7 +12,6 @@
 [<img align="left" alt="suraj | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 [<img align="left" alt="suraj | gmail" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" />][gmail]
 
----
 [whatsapp]: https://wa.me/+919359658536
 [linkedin]: https://www.linkedin.com/in/khot-suraj
 [website]: https://suraj-khot-19.github.io/suraj/
