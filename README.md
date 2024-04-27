@@ -27,9 +27,16 @@
 
 ### Connect with me:
 [<img align="left" alt="Suraj | Wbsite" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/googlechrome.svg" />][website]
-
-[<img align="left" alt="Suraj | Whatsapp" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/whatsapp.svg" />][https://wa.me/+919359658536]
+[<img align="left" alt="Suraj | Whatsapp" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/whatsapp.svg" />][whatsaap]
 [<img align="left" alt="suraj | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+[<img align="left" alt="suraj | gmail" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" />][gamil]
+
+---
+[whatsapp]: https://wa.me/+919359658536
+[linkedin]: https://www.linkedin.com/in/khot-suraj
+[website]: https://suraj-khot-19.github.io/suraj/
+[gmail]: mailto:khotsuraj019@gmail.com
+
 
 <li>📊 My GitHub Stats <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=suraj-khot-19&show_icons=true&theme=merko" alt="GitHub Stats" />
