@@ -1,9 +1,9 @@
+<br>
 <div align="center">
     
 ![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Consolas&pause=1000&color=F4C430&center=true&width=435&lines=Hi,+I'm+Suraj+Khot;I'm+Interested+In+Tech;Expertise+in+Mobile+Development;Flutter+%7C+Android+%7C+Java)
 
 </div>
-<br/>
 <br/>
 <br/>
 <h4 align="center">
