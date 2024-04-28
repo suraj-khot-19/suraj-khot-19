@@ -18,21 +18,22 @@ Connect with me:
 
 
 <div align="center">
-<a href="https://www.linkedin.com/in/khot-suraj">
-    <img alt="Suraj | linkedin" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
+<a text-decoration="none" href="https://www.linkedin.com/in/khot-suraj">
+    <img alt="Suraj | linkedin" width="22px" src="https://github.com/suraj-khot-19/img/blob/main/icons8-linkedin-48.png" />
   </a>&nbsp;&nbsp;&nbsp;
 
-  <a href="https://wa.me/+919359658536">
-    <img alt="Suraj | WhatsApp" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/whatsapp.svg" />
+  <a text-decoration="none"  href="https://wa.me/+919359658536">
+    <img alt="Suraj | WhatsApp" width="22px" src="https://github.com/suraj-khot-19/img/blob/main/icons8-whatsapp-48.png" />
   </a>&nbsp;&nbsp;&nbsp;
 
-  <a href="https://suraj-khot-19.github.io/suraj/">
-    <img alt="Suraj | Website" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/googlechrome.svg" />
+  <a text-decoration="none"   href="https://suraj-khot-19.github.io/suraj/">
+    <img alt="Suraj | Website" width="22px" src="https://github.com/suraj-khot-19/img/blob/main/icons8-chrome-48.png" />
   </a>&nbsp;&nbsp;&nbsp;
 
-  <a href="mailto:khotsuraj019@gmail.com">
-    <img  alt="Suraj | gmail" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" />
+  <a text-decoration="none" href="mailto:khotsuraj019@gmail.com">
+    <img  alt="Suraj | gmail" width="22px" src="https://github.com/suraj-khot-19/img/blob/main/icons8-gmail-48.png" />
   </a>&nbsp;&nbsp;&nbsp;
+  </div>
 </div>
 <br/>
 <br/>
