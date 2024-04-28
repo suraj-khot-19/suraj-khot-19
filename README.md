@@ -39,7 +39,7 @@ Connect with me:
 </h4>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=surajkhot-19&show_icons=true&theme=solarized-dark" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=suraj-khot-19&show_icons=true&theme=solarized-dark" alt="GitHub Stats" />
     </p>
 
 <br/>
