@@ -65,3 +65,12 @@ Skills
 <img src="https://img.shields.io/badge/Git-tomato" alt="Git" />
 <img src="https://img.shields.io/badge/GitHub-black" alt="GitHub" />
 </p>
+<br>
+<br>
+<br>
+
+<div align="right"> 
+    
+![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=800&pause=500&color=FFC920&center=true&vCenter=true&random=true&width=435&lines=Jay+Shree+Ram+%F0%9F%9A%A9)
+
+</div>
