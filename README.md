@@ -5,7 +5,6 @@
 
 </div>
 <br/>
-<br/>
 <h4 align="center">
 Connect with me:
   <br/>
