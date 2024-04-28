@@ -76,6 +76,6 @@ Skills
 
 <div align="right"> 
     
-![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=800&pause=500&color=FFC920&center=true&vCenter=true&random=true&width=435&lines=Jay+Shree+Ram+%F0%9F%9A%A9)
+![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=800&pause=500&color=FFC920&center=true&vCenter=true&random=true&width=435&lines=Jay+Shree+Ram+%F0%9F%9A%A9)
 
 </div>
