@@ -56,11 +56,6 @@ Skills
 <img src="https://img.shields.io/badge/HTML5-green" alt="HTML5" />
 <img src="https://img.shields.io/badge/CSS3-purple" alt="CSS3" />
 <img src="https://img.shields.io/badge/JavaScript-red" alt="JavaScript" />
-</p>
-    <div align="center">
-        &nbsp;
-    </div>
-    <p align="center">
 <img src="https://img.shields.io/badge/PHP-pink" alt="PHP" /> 
 <img src="https://img.shields.io/badge/Laravel-cyan" alt="Laravel" />
 <img src="https://img.shields.io/badge/DBMS-indigo" alt="DBMS" />
