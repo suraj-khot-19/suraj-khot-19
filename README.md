@@ -27,6 +27,10 @@ Connect with me:
   <a text-decoration="none" href="mailto:khotsuraj019@gmail.com">
     <img  alt="Suraj | gmail" width="22px" src="https://github.com/suraj-khot-19/img/blob/main/icons8-gmail-48.png" />
   </a>&nbsp;&nbsp;&nbsp;
+
+<a text-decoration="none" href="https://x.com/thekhot_19?t=uREiEXAJfXifY8R1keXDVQ&s=09">
+    <img  alt="Suraj | X" width="22px" src="https://github.com/suraj-khot-19/img/blob/main/twitter.png" />
+  </a>&nbsp;&nbsp;&nbsp;
   </div>
 </div>
 <br/>
