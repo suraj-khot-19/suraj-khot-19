@@ -1,13 +1,8 @@
+<div align="center">
+    
+![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Consolas&pause=1000&color=F4C430&center=true&width=435&lines=Hi,+I'm+Suraj+Khot;I'm+Interested+In+Tech;Expertise+in+Mobile+Development;Flutter+%7C+Android+%7C+Java)
 
-![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Consolas&pause=1000&color=F4C430&center=true&width=435&lines=Student+%7C+Learning+Flutter;Expertise+in+Mobile+Development;Flutter+%7C+Android+%7C+Java)
-
-
-<h3 align="center">
-Hi, I’m Suraj Khot<br/>
-I’m interested in Tech
-  <br/>
-</h3>
-
+</div>
 <br/>
 <br/>
 <br/>
@@ -44,7 +39,7 @@ Connect with me:
 </h4>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=suraj-khot-19&show_icons=true&theme=solarized-dark" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=&show_icons=true&theme=solarized-dark" alt="GitHub Stats" />
     </p>
 
 <br/>
