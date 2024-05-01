@@ -36,11 +36,11 @@ Connect with me:
 <h4 align="center">
 Skills 
 </h4>
-<p align="center">
+
+<div align="center">
     
 ![My Skills](https://skillicons.dev/icons?i=flutter,dart,firebase,github,git,postman,figma,java,php,laravel,mysql,python,html,css,javascript&perline=5)
-    
-</p>
+</div>
 
 <br/>
 <h4 align="center">
