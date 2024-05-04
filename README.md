@@ -1,7 +1,7 @@
 
 <div align="center">
     
-![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Consolas&pause=1000&color=F4C430&center=true&width=435&lines=Hi,+I'm+Suraj+Khot;I'm+Interested+In+Tech;Expertise+in+Mobile+Development;Flutter+%7C+Android+%7C+Java)
+![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Consolas&pause=1000&color=ff1493&center=true&width=435&lines=Hi,+I'm+Suraj+Khot;I'm+Interested+In+Tech;Expertise+in+Mobile+Development;Flutter+%7C+Android+%7C+Java)
 
 </div>
 <h4 align="center">
@@ -52,6 +52,6 @@ GitHub Stats
 
 <div align="right"> 
     
-![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=800&pause=500&color=FFC920&center=true&vCenter=true&random=true&width=435&lines=Jay+Shree+Ram+%F0%9F%9A%A9)
+![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=800&pause=500&color=ff1493&center=true&vCenter=true&random=true&width=435&lines=Jay+Shree+Ram+%F0%9F%9A%A9)
 
 </div>
