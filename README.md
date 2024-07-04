@@ -49,9 +49,3 @@ GitHub Stats
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=suraj-khot-19&show_icons=true&theme=dark" alt="GitHub Stats" />
     </p>
-
-<div align="right"> 
-    
-![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=800&pause=500&color=ff1493&center=true&vCenter=true&random=true&width=435&lines=Jay+Shree+Ram+%F0%9F%9A%A9)
-
-</div>
