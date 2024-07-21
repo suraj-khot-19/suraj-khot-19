@@ -49,3 +49,10 @@ GitHub Stats
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=suraj-khot-19&show_icons=true&theme=dark" alt="GitHub Stats" />
     </p>
+
+
+![](https://github-readme-streak-stats.herokuapp.com/?user=suraj-khot-19&theme=dark&hide_border=true)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=suraj-khot-19&theme=dark&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
+
+
+
