@@ -1,8 +1,7 @@
 
 <div align="center">
     
-![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Consolas&pause=1000&color=ff1493&center=true&width=435&lines=Hi,+I'm+Suraj+Khot;I'm+Interested+In+Tech;Expertise+in+Mobile+Development;Flutter+%7C+Android+%7C+Java)
-
+![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Consolas&pause=1000&color=ff1493&center=true&width=435&lines=Hi,+I'm+Suraj+Khot;I'm+Interested+In+Tech;Expertise+in+FullStack+Development;Flutter+%7C+Android+%7C+Java)
 </div>
 <h4 align="center">
 Connect with me:
@@ -39,7 +38,7 @@ Skills
 
 <div align="center">
     
-![My Skills](https://skillicons.dev/icons?i=react,java,html,css,javascript,flutter,dart,firebase,github,git,postman,mongodb,mysql,bootstrap&perline=5)
+![My Skills](https://skillicons.dev/icons?i=react,html,css,javascript,mongodb,redux,express,nodejs,bootstrap,tailwind,mysql,java,github,git,postman,flutter,dart,firebase,vscode&perline=5)
 </div>
 
 <br/>
