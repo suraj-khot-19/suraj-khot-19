@@ -40,7 +40,7 @@ Skills
 
 <div align="center">
     
-![My Skills](https://skillicons.dev/icons?i=react,html,css,javascript,mongodb,redux,express,nodejs,bootstrap,tailwind,mysql,java,github,git,postman,flutter,dart,firebase&perline=4)
+![My Skills](https://skillicons.dev/icons?i=react,html,css,javascript,mongodb,redux,express,nodejs,bootstrap,tailwind,mysql,java,github,git,postman,flutter,dart,firebase&perline=5)
 </div>
 
 <br/>
