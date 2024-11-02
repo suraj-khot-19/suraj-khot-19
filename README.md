@@ -2,7 +2,7 @@
 <div align="center">
     
 ![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Consolas&pause=1000&color=F76868FF&center=true&width=435&lines=Hi,+I'm+Suraj+Khot;I'm+Interested+In+Tech;)
-![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Consolas&pause=1000&color=F76868FF&center=true&width=435&lines=FullStack+Developer;React+%7c+MongoDB+%7c+Node.js+%7c+Express;)
+![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Consolas&pause=1000&color=F76868FF&center=true&width=435&lines=FullStack+Developer;MERN+%7c+Java+%7c+Spring-Boot+%7c+My-Sql;)
 </div>
 
 <h4 align="center">
