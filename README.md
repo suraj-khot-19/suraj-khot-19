@@ -3,11 +3,11 @@
 
 <p>  
     
-![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Consolas&pause=1000&color=4A90E2&center=true&width=500&lines=Hi,+I'm+Suraj+Khot;I'm+Interested+In+Tech;)
+![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Consolas&pause=1000&color=4A90E2&center=true&width=300&lines=Hi,+I'm+Suraj+Khot;I'm+Interested+In+Tech;)
 
 </p>
 
-![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Consolas&pause=1000&color=4A90E2&center=true&width=500&lines=FullStack+Developer;MERN+%7c+Java+%7c+Spring-Boot+%7c+My-Sql;)
+![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Consolas&pause=1000&color=4A90E2&center=true&width=300&lines=FullStack+Developer;MERN+%7c+Java+%7c+Spring-Boot+%7c+My-Sql;)
 
 </p>
 
