@@ -42,10 +42,11 @@
 <br>
 
 <!-- 5. current/max stats -->
-
+<!--
 ![](https://github-readme-streak-stats.herokuapp.com/?user=suraj-khot-19&theme=dark&hide_border=true)
 
 <br>
+-->
 
 <!-- 6. Languges used -->
 
