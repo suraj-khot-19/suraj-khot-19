@@ -58,7 +58,7 @@
 
 <!-- 7. Total visit Count -->
 <br><br><br>
-![](https://komarev.com/ghpvc/?username=suraj-khot-19&style=for-the-badge&base=1000)
+![](https://komarev.com/ghpvc/?username=suraj-khot-19&style=for-the-badge)
 
 <br>
 </div>
