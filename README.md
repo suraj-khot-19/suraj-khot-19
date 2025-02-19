@@ -29,18 +29,19 @@
 
 <h4>Skills :</h4>
 
-![My Skills](https://skillicons.dev/icons?i=react,java,spring,html,css,javascript,mongodb,redux,express,nodejs,bootstrap,tailwind,mysql,github,git,postman&perline=4)
+![My Skills](https://skillicons.dev/icons?i=java,spring,mysql,html,css,javascript,react,mongodb,express,nodejs,bootstrap,tailwind,github,git,postman,bash&perline=4)
 
 <br/>
 
 
 <!-- 4. simple stats -->
-
+<!-- 
 <h4>GitHub Stats :</h4>
 <img src="https://github-readme-stats.vercel.app/api?username=suraj-khot-19&show_icons=true&theme=dark" alt="GitHub Stats" />
 
 <br>
-
+ -->
+ 
 <!-- 5. current/max stats -->
 <!--
 ![](https://github-readme-streak-stats.herokuapp.com/?user=suraj-khot-19&theme=dark&hide_border=true)
