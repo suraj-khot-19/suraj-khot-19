@@ -35,19 +35,18 @@
 
 
 <!-- 4. simple stats -->
-<!-- 
+
 <h4>GitHub Stats :</h4>
 <img src="https://github-readme-stats.vercel.app/api?username=suraj-khot-19&show_icons=true&theme=dark" alt="GitHub Stats" />
 
 <br>
- -->
  
 <!-- 5. current/max stats -->
-<!--
+
 ![](https://github-readme-streak-stats.herokuapp.com/?user=suraj-khot-19&theme=dark&hide_border=true)
 
 <br>
--->
+
 
 <!-- 6. Languges used -->
 
