@@ -28,9 +28,11 @@
 <!-- 3. skills  -->
 
 <h4>Skills :</h4>
-
+<!--
 ![My Skills](https://skillicons.dev/icons?i=java,spring,python,mysql,html,css,javascript,react,hibernate,mongodb,express,nodejs,bootstrap,tailwind,github,git,postman,bash&perline=4)
+-->
 
+![My Skills](https://skillicons.dev/icons?i=nodejs,javascript,react,mongodb,express,java,spring,python,mysql,ai&perline=4)
 <br/>
 
 
