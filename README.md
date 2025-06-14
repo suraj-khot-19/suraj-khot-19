@@ -18,11 +18,11 @@
 
 <h4>Connect with me :</h4>
 
-[![LinkedIn](https://github.com/suraj-khot-19/img/blob/main/icons8-linkedin-48.png)](https://www.linkedin.com/in/khot-suraj) 
+[![LinkedIn](https://github.com/suraj-khot-19/img/blob/main/icons8-linkedin-48.png)](https://www.linkedin.com/in/khot-suraj)
+[![Instagram](https://img.icons8.com/3d-fluency/94/instagram-logo.png)](https://www.instagram.com/the.khot/) 
 [![WhatsApp](https://github.com/suraj-khot-19/img/blob/main/icons8-whatsapp-48.png)](https://wa.me/+919359658536) 
 [![Website](https://github.com/suraj-khot-19/img/blob/main/icons8-chrome-48.png)](https://suraj-khot-19.github.io/suraj/) 
 [![Gmail](https://github.com/suraj-khot-19/img/blob/main/icons8-gmail-48.png)](mailto:khotsuraj019@gmail.com) 
-
 <br/>
 
 <!-- 3. skills  -->
